@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Becoming",
+    "author": "Michele Obama",
+    "isAvailable": false
+  },
+  {
+    "title": "Tranny",
+    "author": "Laura Jane Grace",
+    "isAvailable": false
+  },
+  {
+    "title": "Eloquent JavaScript",
+    "author": "Marijn Haverbeke",
+    "isAvailable": true
+  }
+]
